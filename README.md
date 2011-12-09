@@ -92,7 +92,7 @@ To learn more about what we're up to, follow [@sproutcore on Twitter](http://twi
 # Building Amber.js
 
 1. Run `rake` to build Amber.js. Two builds will be placed in the `dist/` directory.
-  * `amber.js` and `amber.min.js` - unminified and minified
+  * `sproutcore.js` and `sproutcore.min.js` - unminified and minified
     builds of Amber.js
 
 If you are building under Linux, you will need a JavaScript runtime for
